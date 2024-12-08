@@ -5,4 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #mysql:5.7
-redis:7.2
+#redis:7.2
+openzipkin/zipkin
