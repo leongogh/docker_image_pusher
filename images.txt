@@ -11,5 +11,5 @@
 #elasticsearch:7.4.2
 #kibana:7.4.2
 #mysql:8.0
-mongo:7.0
-
+#mongo:7.0
+grafana/grafana:latest
