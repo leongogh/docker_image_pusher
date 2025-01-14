@@ -10,4 +10,6 @@
 #delron/elasticsearch-ik:2.4.6-1.0
 #elasticsearch:7.4.2
 #kibana:7.4.2
-mysql:8.0
+#mysql:8.0
+mongo:7.0
+
