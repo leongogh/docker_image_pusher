@@ -8,8 +8,8 @@
 #redis:7.2
 #openzipkin/zipkin
 #delron/elasticsearch-ik:2.4.6-1.0
-#elasticsearch:7.4.2
-#kibana:7.4.2
+elasticsearch:7.17.27
+kibana:7.17.27
 #mysql:8.0
 #mongo:7.0
-grafana/grafana:latest
+#grafana/grafana:latest
